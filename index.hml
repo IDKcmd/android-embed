@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Android Embed</title>
+<style>
+body { margin:0; }
+iframe { border:none; }
+</style>
+</head>
+<body>
+
+<iframe 
+src="https://appetize.io/app/b_khgxon5opyfalfn5gre3wxisqa"
+width="100%" 
+height="800">
+</iframe>
+
+</body>
+</html>
